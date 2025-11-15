@@ -1,5 +1,4 @@
 # 💫 About Me:
-About Me
 
 Hi! I’m Omar Elshaer — a Computer Science student and growing software engineer with a strong passion for building real, impactful digital experiences. 💻🚀
 Over the past few years, I’ve worked on multiple web and system projects that strengthened my skills in clean architecture, user-focused design, and practical software development. 🎨⚙️
