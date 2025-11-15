@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building a full Java Banking System with GUI, a University Management System, and a purple-themed website for the AIU Voice Club. I’m also working on improving project structure, OOP design, file management, and GUI optimization.<br><br>👯 I’m looking to collaborate on<br>Web development projects, student community activities, and any system that involves real use-cases like management systems, inventory systems, or educational tools.<br><br>🤝 I’m looking for help with<br>Advanced Java architecture, improving GUI performance, and integrating services like Firebase + SendGrid for real-world applications.<br><br>🌱 I’m currently learning<br>Object-Oriented Programming, C#, database design, Discrete Math, Probability & Statistics, and advanced front-end workflows. I’m also exploring how to structure professional software projects from scratch.<br><br>💬 Ask me about<br>Java OOP, GUIs, GitHub setup & workflows, creating project structures, HTML/CSS/JS websites, student club activities, and how to turn an idea into a full working application.<br><br>⚡ Fun fact<br>I often start building full systems just to understand one concept deeply — and somehow they end up becoming actual working applications!<br>
+About Me
 
+Hi! I’m Omar Elshaer — a Computer Science student and growing software engineer with a strong passion for building real, impactful digital experiences. 💻🚀
+Over the past few years, I’ve worked on multiple web and system projects that strengthened my skills in clean architecture, user-focused design, and practical software development. 🎨⚙️
+
+I currently lead the Web Committee and serve as an Instructor at IEEE AIU SB, where I guide students through the fundamentals of web development, run structured training sessions, and help build a stronger developer community on campus. 🌐👨‍🏫
+I’m also active in various university activities, organizing tech-related events and contributing to student-focused systems and tools. 🎤📚
+
+I love working on projects that push me to think differently — from websites with real users to management systems built from scratch. I’m always exploring new technologies, refining my workflow, and turning creative ideas into polished, meaningful applications. 💡✨
+
+When I’m not coding, you’ll probably find me organizing events, helping students, or experimenting with new tools just for fun. 😄🎉
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omaralshaer99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_.elshaer._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-elshaer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.reda.shaer@gmail.com) 
