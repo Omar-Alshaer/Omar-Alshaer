@@ -335,7 +335,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🚕 **Alamein University Transportation System**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41fb-b5f5-04464e5ac08e.gif" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp0aWRtbGJ1eHAyYmZ1MWtrZm1tdmV6ZHNiZHgyem5waDh4MmcyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="400">
 
 [![Backend](https://img.shields.io/badge/Backend-Development-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com)
 [![Database](https://img.shields.io/badge/Database-Management-764ba2?style=flat-square)](https://github.com)
