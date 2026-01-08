@@ -47,27 +47,31 @@
 
 </div>
 
----
-
-## 🌐 PORTFOLIO WEBSITE (MAIN)
-
-### 🌐 MAIN PORTFOLIO  
+## 🌐 PORTFOLIO WEBSITE
 
 <p align="center">
   <a href="https://omarshaer.vercel.app/" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/portfolio-main.png" 
-      alt="Visit Main Portfolio" 
-      width="260" 
-      height="60"
+      src="assets/projects/portfolio-main.png" 
+      alt="Omar Elshaer Portfolio"
+      width="600" 
+      height="340"
+      style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
     >
   </a>
 </p>
 
-> **The full interactive experience lives here.**
+<p align="center">
+  <a href="https://omarshaer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-667EEA?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Visit Portfolio">
+  </a>
+</p>
+
+> **The full interactive experience lives here.**  
 > GitHub showcases — the website demonstrates.
 
 ---
+
 
 ## 🚀 FEATURED LIVE PROJECTS
 
@@ -267,7 +271,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 📚 **O-Easy-TA – Academic Management System**
 
 <img 
-  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/o-easy-ta.png" 
+      src="assets/projects/o-easy-ta.jpg" 
   width="400" 
   height="230"
   alt="O-Easy-TA – Academic Management System"
@@ -306,7 +310,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 🌐 **IEEE AIU Student Branch Website**
 
 <img 
-  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/ieee-aiu.png" 
+  src="assets/projects/ieee-aiu.jpg" 
   width="400" 
   height="230"
   alt="IEEE AIU Student Branch Website"
@@ -348,7 +352,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 🎤 **AIU Voice Club Website**
 
 <img 
-  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-AlshaeR/assets/projects/aiuvoiceclub.png" 
+  src="assets/projects/aiuvoiceclub.jpg" 
   width="400" 
   height="230"
   alt="AIU Voice Club Website"
@@ -387,7 +391,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 🚕 **Alamein University Transportation System**
 
 <img 
-  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/aiu-o-buses.png" 
+  src="assets/projects/aiu-o-buses.jpg" 
   width="400" 
   height="230"
   alt="Alamein University Transportation System"
@@ -429,7 +433,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 🎨 **Soul Art Hub Website**
 
 <img 
-  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/projects/soul-art-hub.png" 
+  src="assets/projects/soul-art-hub.jpg" 
   width="400" 
   height="230"
   alt="Soul Art Hub Website"
@@ -465,20 +469,26 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <div align="center">
 
-### 🔍 **University Admission System (QA)**
+### 🏥 **Doctorly – Clinic Management System**
 
 <img 
-  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/admission-system.png" 
+  src="assets/projects/doctorly.jpg" 
   width="400" 
   height="230"
-  alt="University Admission System (QA)"
+  alt="Doctorly – Clinic Management System"
 />
 
-[![QA](https://img.shields.io/badge/Quality-Assurance-2496ED?style=flat-square)](https://github.com)
-[![Testing](https://img.shields.io/badge/Software-Testing-667eea?style=flat-square)](https://github.com)
-[![Reliability](https://img.shields.io/badge/Reliability-Focus-764ba2?style=flat-square)](https://github.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://github.com)
 
 </div>
+
+```yaml
+🎯 Period: Sep 2025 – Jan 2026
+🔬 Technology: Next.js + TypeScript + MongoDB
+⚡ Purpose: Smart clinic management solution
+
 
 ```yaml
 🎯 Period: Jun 2025 – Sep 2025
@@ -1235,7 +1245,9 @@ for goal, target in goals_2026.items():
 
 <br/><br/>
 
-**Made with** ❤️ **and lots of** ☕ **by Omar Elshaer**
+**Crafting Clean Code, Pixel by Pixel** ❤️ 
+<br>
+**by Omar Elshaer**
 
 <sub>Last Updated: January 2026 | Built with passion for Web Development & Community Leadership</sub>
 
