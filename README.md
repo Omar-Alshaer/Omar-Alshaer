@@ -99,7 +99,7 @@ class FullStackDeveloper:
         self.role = "Full-Stack Developer & Data Engineer"
         self.location = "🇪🇬 Alexandria, Egypt"
         self.university = "Alamein International University"
-        self.year = "1st Year Software Engineering"
+        self.year = "2st Year Software Engineering"
         self.phone = "+20 12 835 482 48"
         
     @property
@@ -219,12 +219,13 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
 
 <!-- Premium Project Showcase -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"/> FLAGSHIP PROJECTS
+
+**💡 All projects designed, developed, and deployed independently**
 
 </div>
 
@@ -239,7 +240,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 📚 **O-Easy-TA – Academic Management System**
 
 <img 
-      src="assets/projects/o-easy-ta.jpg" 
+  src="assets/projects/o-easy-ta.jpg" 
   width="400" 
   height="230"
   alt="O-Easy-TA – Academic Management System"
@@ -255,17 +256,18 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 🎯 Period: Jan 2025 – May 2025
 🔬 Technology: Python + SQLite3 + Web Integration
 ⚡ Impact: Real-time data sharing
+👤 Role: Solo Full-Stack Developer & UI/UX Designer
 ```
 
 **🚀 KEY HIGHLIGHTS:**
-- 📊 Robust backend using Python
-- 🗄️ SQLite3 database design
+- 📊 Robust backend architecture designed from scratch
+- 🗄️ Custom SQLite3 database schema & optimization
 - 🌐 Web platform integration for real-time updates
-- 📈 Academic affairs data management
-- 👥 Multi-user support system
-- ⚙️ Clean architecture & maintainability
+- 📈 Complete academic affairs data management
+- 👥 Multi-user authentication & authorization system
+- ⚙️ Clean architecture & full documentation
 
-**💡 IMPACT:** Streamlining academic workflows for students and faculty
+**💡 IMPACT:** Single-handedly streamlined academic workflows for students and faculty
 
 ---
 
@@ -292,19 +294,20 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ```yaml
 🎯 Period: Feb 2025 – Present
-🔬 Technology: React.js + Modern UI/UX
+🔬 Technology: Modern UI/UX + Data Form 
 ⚡ Mission: Showcase IEEE AIU initiatives
+👤 Role: Solo Full-Stack Developer & UI/UX Designer
 ```
 
 **🚀 KEY HIGHLIGHTS:**
-- 🎨 Responsive modern design
-- ⚡ React-based dynamic content
-- 📱 Mobile-first approach
-- 🌟 Interactive student engagement
-- 📢 Event & workshop showcase
-- 🔗 Community networking hub
+- 🎨 End-to-end responsive design & development
+- ⚡ React-based SPA with dynamic content management
+- 📱 Mobile-first approach with cross-browser compatibility
+- 🌟 Interactive student engagement features
+- 📢 Complete event & workshop management system
+- 🔗 Community networking hub with custom features
 
-**💡 IMPACT:** Building a vibrant online community for tech enthusiasts
+**💡 IMPACT:** Built from scratch to create a vibrant online community for tech enthusiasts
 
 ---
 
@@ -334,19 +337,21 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ```yaml
 🎯 Period: Oct 2025 – Present
-🔬 Role: Head of Web & Content
+🔬 Technology: Full-Stack Development
 📊 Focus: Student media initiatives
+👤 Role: Solo Full-Stack Developer & UI/UX Designer
+
 ```
 
 **🚀 KEY HIGHLIGHTS:**
-- 🎬 Media content showcase
-- 📝 Blog & article management
-- 🎨 Creative multimedia hub
-- 👥 Student contributor platform
-- 📊 Analytics & engagement tracking
-- 🌟 Brand identity & storytelling
+- 🎬 Custom media content showcase platform
+- 📝 Built-in blog & article management system
+- 🎨 Creative multimedia hub designed & coded solo
+- 👥 Student contributor platform with admin panel
+- 📊 Analytics & engagement tracking integration
+- 🌟 Complete brand identity & storytelling implementation
 
-**💡 IMPACT:** Empowering student voices and creative expression
+**💡 IMPACT:** Independently created a platform empowering student voices and creative expression
 
 ---
 
@@ -375,17 +380,18 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 🎯 Period: Jul 2025 – Aug 2025
 🔬 Technology: Full-Stack Development
 ⚡ Purpose: Campus mobility solution
+👤 Role: Solo Full-Stack Developer & UI/UX Designer
 ```
 
 **🚀 KEY HIGHLIGHTS:**
-- 🚕 Transportation logistics system
-- 📍 Route optimization & tracking
-- 👥 Student & shuttle management
-- 📊 Scheduling & analytics
-- 🎯 User-friendly interface
-- ⚙️ Scalable backend architecture
+- 🚕 Complete transportation logistics system architecture
+- 📍 Route optimization & real-time tracking implementation
+- 👥 Student & shuttle management from scratch
+- 📊 Custom scheduling & analytics dashboard
+- 🎯 User-friendly interface designed independently
+- ⚙️ Scalable backend architecture & database design
 
-**💡 IMPACT:** Improving campus transportation efficiency and student experience
+**💡 IMPACT:** Solo project improving campus transportation efficiency and student experience
 
 ---
 
@@ -415,19 +421,20 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ```yaml
 🎯 Period: Mar 2025 – Aug 2025
-🔬 Technology: Web Design & Development
+🔬 Technology: Web Design, Modern UI/UX + Data Form
 ⚡ Purpose: Showcase creative work
+👤 Role: Solo Full-Stack Developer & UI/UX Designer
 ```
 
 **🚀 KEY HIGHLIGHTS:**
-- 🎨 Portfolio showcase platform
-- 📸 Gallery management system
-- 🌟 Artist profile pages
-- 📱 Responsive design
-- 🛒 Integration-ready structure
-- ✨ Modern aesthetic
+- 🎨 Custom portfolio showcase platform built independently
+- 📸 Gallery management system with custom features
+- 🌟 Dynamic artist profile pages
+- 📱 Fully responsive design from mobile to desktop
+- 🛒 Integration-ready e-commerce structure
+- ✨ Modern aesthetic with custom animations
 
-**💡 IMPACT:** Providing a digital stage for artists and creators
+**💡 IMPACT:** Single-handedly provided a digital stage for artists and creators
 
 ---
 
@@ -454,25 +461,20 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ```yaml
 🎯 Period: Sep 2025 – Jan 2026
-🔬 Technology: Next.js + TypeScript + MongoDB
+🔬 Technology: Next.js + TypeScript + MongoDB + Tailwind
 ⚡ Purpose: Smart clinic management solution
-
-
-```yaml
-🎯 Period: Jun 2025 – Sep 2025
-🔬 Role: Software Tester
-⚡ Focus: Quality & Reliability
+👤 Role: Solo Full-Stack Developer & UI/UX Designer
 ```
 
 **🚀 KEY HIGHLIGHTS:**
-- 🧪 Comprehensive test planning
-- ✅ Functionality verification
-- 🔐 Security & data integrity testing
-- 👥 User experience validation
-- 📋 Bug documentation & reporting
-- 📈 Performance optimization
+- 📅 Smart appointment scheduling system built from ground up
+- 📋 Comprehensive patient medical records management
+- 💰 Automated invoicing & billing system
+- 📊 Real-time analytics & insights dashboard
+- 🩺 Complete clinic workflow optimization
+- 💻 Modern dashboard with intuitive UX designed solo
 
-**💡 IMPACT:** Ensuring smooth admission processes for students
+**💡 IMPACT:** Independently developed a complete solution empowering doctors with smart tools to manage their clinic efficiently and improve patient care
 
 ---
 
