@@ -85,12 +85,8 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
 
 ```python
-#!/usr/bin/env python3
 """
 █████████████████ 
 █ OMAR ELSHAER █
@@ -142,41 +138,13 @@ omar = FullStackDeveloper()
 print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
-</td>
-<td width="60%" valign="top">
-
-<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%"/>
-</a>
-
-### 🎓 EDUCATION
-**BSc in Software Engineering**  
-📍 Alamein International University  
-📅 Aug 2024 - July 2028  
-
-### 💼 CURRENT POSITIONS
-**Head of Web & Content**  
-🏢 AIU Voice Club  
-📅 Oct 2025 - Present  
-
-**Web Track Instructor**  
-🏢 IEEE AIU Student Branch  
-📅 Feb 2025 - Present  
-
-**Microsoft Data Engineer Trainee**  
-🏢 Digital Egypt Pioneers Initiative (DEPI)  
-📅 Jun 2025 - Present  
-
 ### 🌟 QUICK STATS
 - 👥 **20+** Students Mentored
 - 🌐 **6+** Web Projects
 - 🏆 **2nd Place** Web Design (2021)
-- 📜 **10+** Professional Certifications
+- 📜 **15+** Professional Certifications
 - 💻 **Full-Stack** Competency
 
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
