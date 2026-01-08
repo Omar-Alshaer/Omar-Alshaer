@@ -22,13 +22,13 @@
   <a href="mailto:omar.reda.shaer@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335"/>
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/Omar-Alshaer">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717"/>
   </a>
   <a href="https://facebook.com/omaralshaer99">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000&color=1877F2"/>
   </a>
-  <a href="https://instagram.com/@_.elshaer._">
+  <a href="https://instagram.com/_.elshaer._">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F"/>
   </a>
 </p>
@@ -46,6 +46,40 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> WHO AM I?
 
 </div>
+
+---
+
+## 🌐 PORTFOLIO WEBSITE (MAIN)
+
+### 🌐 MAIN PORTFOLIO  
+
+<p align="center">
+  <a href="https://omarshaer.vercel.app/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/portfolio-main.png" 
+      alt="Visit Main Portfolio" 
+      width="260" 
+      height="60"
+    >
+  </a>
+</p>
+
+> **The full interactive experience lives here.**
+> GitHub showcases — the website demonstrates.
+
+---
+
+## 🚀 FEATURED LIVE PROJECTS
+
+| Project                      | Live Demo                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| 🎤 AIU Voice Club            | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://aiuvoiceclub.vercel.app) |
+| 🚍 AIU Transportation System | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://aiu-o-buses.vercel.app) |
+| 🌐 IEEE AIU Website          | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://ieee-aiu.vercel.app) |
+| 🎨 Soul Art Hub              | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://soul-art-hub.vercel.app) |
+| 📚 O-Easy-TA System          | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://o-easy-ta.vercel.app) |
+
+---
 
 <table width="100%">
 <tr>
@@ -107,7 +141,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 </td>
 <td width="45%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</a>
 
 ### 🎓 EDUCATION
 **BSc in Software Engineering**  
@@ -230,7 +266,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 📚 **O-Easy-TA – Academic Management System**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img 
+  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/o-easy-ta.png" 
+  width="400" 
+  height="230"
+  alt="O-Easy-TA – Academic Management System"
+/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://github.com)
@@ -264,7 +305,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🌐 **IEEE AIU Student Branch Website**
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+<img 
+  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/ieee-aiu.png" 
+  width="400" 
+  height="230"
+  alt="IEEE AIU Student Branch Website"
+/>
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com)
 [![WebDesign](https://img.shields.io/badge/Web-Design-667eea?style=flat-square)](https://github.com)
@@ -301,7 +347,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🎤 **AIU Voice Club Website**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+<img 
+  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-AlshaeR/assets/projects/aiuvoiceclub.png" 
+  width="400" 
+  height="230"
+  alt="AIU Voice Club Website"
+/>
 
 [![Web](https://img.shields.io/badge/Web-Development-667eea?style=flat-square)](https://github.com)
 [![Content](https://img.shields.io/badge/Content-Management-F7931E?style=flat-square)](https://github.com)
@@ -335,7 +386,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🚕 **Alamein University Transportation System**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp0aWRtbGJ1eHAyYmZ1MWtrZm1tdmV6ZHNiZHgyem5waDh4MmcyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="400">
+<img 
+  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/aiu-o-buses.png" 
+  width="400" 
+  height="230"
+  alt="Alamein University Transportation System"
+/>
 
 [![Backend](https://img.shields.io/badge/Backend-Development-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com)
 [![Database](https://img.shields.io/badge/Database-Management-764ba2?style=flat-square)](https://github.com)
@@ -372,7 +428,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🎨 **Soul Art Hub Website**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img 
+  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/projects/soul-art-hub.png" 
+  width="400" 
+  height="230"
+  alt="Soul Art Hub Website"
+/>
 
 [![WebDevelopment](https://img.shields.io/badge/Web-Development-667eea?style=flat-square)](https://github.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-E4405F?style=flat-square)](https://github.com)
@@ -406,7 +467,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🔍 **University Admission System (QA)**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+<img 
+  src="https://raw.githubusercontent.com/Omar-Alshaer/Omar-Alshaer/assets/projects/admission-system.png" 
+  width="400" 
+  height="230"
+  alt="University Admission System (QA)"
+/>
 
 [![QA](https://img.shields.io/badge/Quality-Assurance-2496ED?style=flat-square)](https://github.com)
 [![Testing](https://img.shields.io/badge/Software-Testing-667eea?style=flat-square)](https://github.com)
@@ -1145,10 +1211,10 @@ for goal, target in goals_2026.items():
 <img src="https://komarev.com/ghpvc/?username=OmarElshaer&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile views"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/OmarElshaer?label=Followers&style=for-the-badge&color=blue&labelColor=000000" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Omar-alshaer?label=Followers&style=for-the-badge&color=blue&labelColor=000000" alt="followers"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/stars/OmarElshaer?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=000000" alt="stars"/>
+<img src="https://img.shields.io/github/stars/Omar-alshaer?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=000000" alt="stars"/>
 </td>
 </tr>
 </table>
