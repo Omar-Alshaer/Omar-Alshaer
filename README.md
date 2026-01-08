@@ -72,19 +72,79 @@
 
 ---
 
-
 ## 🚀 FEATURED LIVE PROJECTS
 
-| Project                      | Live Demo                                                                 |
-| ---------------------------- | -------------------------------------------------------------------------- |
-| 🎤 AIU Voice Club            | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://aiuvoiceclub.vercel.app) |
-| 🚍 AIU Transportation System | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://aiu-o-buses.vercel.app) |
-| 🌐 IEEE AIU Website          | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://ieee-aiu.vercel.app) |
-| 🎨 Soul Art Hub              | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://soul-art-hub.vercel.app) |
-| 📚 O-Easy-TA System          | [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://o-easy-ta.vercel.app) |
+<p align="center">
+  <b>🌟 6 Production-Ready Applications | Built with Modern Tech Stack 🌟</b>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🎤-AIU_Voice_Club-667EEA?style=for-the-badge&labelColor=000000" width="200"/>
+<br/><br/>
+<a href="https://aiuvoiceclub.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-→-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="150"/>
+</a>
+<br/><br/>
+</td>
+
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🚍-Transportation-667EEA?style=for-the-badge&labelColor=000000" width="200"/>
+<br/><br/>
+<a href="https://aiu-o-buses.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-→-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="150"/>
+</a>
+<br/><br/>
+</td>
+
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🌐-IEEE_Website-667EEA?style=for-the-badge&labelColor=000000" width="200"/>
+<br/><br/>
+<a href="https://ieee-aiu.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-→-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="150"/>
+</a>
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/🎨-Soul_Art_Hub-667EEA?style=for-the-badge&labelColor=000000" width="200"/>
+<br/><br/>
+<a href="https://soul-art-hub.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-→-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="150"/>
+</a>
+<br/><br/>
+</td>
+
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/📚-O_Easy_TA-667EEA?style=for-the-badge&labelColor=000000" width="200"/>
+<br/><br/>
+<a href="https://o-easy-ta.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-→-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="150"/>
+</a>
+<br/><br/>
+</td>
+
+<td align="center">
+<br/>
+<img src="https://img.shields.io/badge/🏥-Doctorly-667EEA?style=for-the-badge&labelColor=000000" width="200"/>
+<br/><br/>
+<a href="https://doctorly.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-→-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="150"/>
+</a>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 ---
-
 
 ```python
 """
