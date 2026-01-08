@@ -87,7 +87,7 @@
 
 <table width="100%">
 <tr>
-<td width="75%" valign="top">
+<td width="40%" valign="top">
 
 ```python
 #!/usr/bin/env python3
