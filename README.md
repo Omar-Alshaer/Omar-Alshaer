@@ -87,7 +87,7 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="75%" valign="top">
 
 ```python
 #!/usr/bin/env python3
@@ -143,10 +143,10 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="60%" valign="top">
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%"/>
 </a>
 
 ### 🎓 EDUCATION
@@ -1029,7 +1029,7 @@ Object-Oriented Programming (Multiple Platforms)
   <a href="https://facebook.com/omaralshaer99">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://instagram.com/@_.elshaer._">
+  <a href="https://instagram.com/_.elshaer._">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
   </a>
 </p>
@@ -1102,8 +1102,8 @@ Object-Oriented Programming (Multiple Platforms)
 
 </div>
 
-<table width="100%">
-<tr>
+<table align="center" width="100%">
+<tr align="center">
 <td align="center" width="50%">
 
 ### 👥 **MENTORSHIP & TEACHING**
