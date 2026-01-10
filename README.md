@@ -67,11 +67,6 @@
   </a>
 </p>
 
-> **The full interactive experience lives here.**  
-> GitHub showcases — the website demonstrates.
-
----
-
 ## 🚀 FEATURED LIVE PROJECTS
 
 <p align="center">
@@ -147,11 +142,11 @@
 ---
 
 ```python
-"""
-█████████████████ 
-█ OMAR ELSHAER █
-█████████████████
-"""
+                    """
+                    █████████████████
+                    █ OMAR ELSHAER █
+                    █████████████████
+                    """
 
 class FullStackDeveloper:
     def __init__(self):
@@ -161,7 +156,7 @@ class FullStackDeveloper:
         self.university = "Alamein International University"
         self.year = "2st Year Software Engineering"
         self.phone = "+20 12 835 482 48"
-        
+
     @property
     def current_stack(self):
         return {
@@ -179,7 +174,7 @@ class FullStackDeveloper:
                 "👥 Team Leadership"
             ]
         }
-    
+
     def current_mission(self):
         return [
             "🎯 Leading Web Track @ IEEE AIU Student Branch",
@@ -189,7 +184,7 @@ class FullStackDeveloper:
             "💡 Creating systems that solve real-world problems",
             "🚀 Driving innovation in university tech community"
         ]
-    
+
     def philosophy(self):
         return "Code is about people. Build with intention. Lead with empathy."
 
@@ -199,12 +194,12 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
 ### 🌟 QUICK STATS
+
 - 👥 **20+** Students Mentored
 - 🌐 **6+** Web Projects
 - 🏆 **2nd Place** Web Design (2021)
 - 📜 **15+** Professional Certifications
 - 💻 **Full-Stack** Competency
-
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -217,9 +212,10 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> TECH WEAPONRY
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,react,nodejs,express,mongodb,firebase,azure,git,figma&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,javascript,typescript,php,mysql,html,css,react,nodejs,express,mongodb,firebase,azure,git,github,docker,linux,vscode,figma,postman,bash&perline=8&theme=dark" />
 
 ### 💻 **CORE LANGUAGES**
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
@@ -232,6 +228,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 </p>
 
 ### 🌐 **WEB FRAMEWORKS & LIBRARIES**
+
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010"/>
@@ -241,6 +238,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 </p>
 
 ### 📊 **DATA & DATABASES**
+
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010"/>
@@ -251,6 +249,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 </p>
 
 ### ☁️ **CLOUD & DEPLOYMENT**
+
 <p>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010"/>
@@ -258,17 +257,19 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 </p>
 
 ### 🛠️ **DEV TOOLS & PLATFORMS**
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010"/>
 </p>
 
 ### 🎨 **DESIGN & CREATIVITY**
+
 <p>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=101010"/>
 </p>
@@ -278,7 +279,6 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
 
 <!-- Premium Project Showcase -->
 <div align="center">
@@ -320,6 +320,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
 **🚀 KEY HIGHLIGHTS:**
+
 - 📊 Robust backend architecture designed from scratch
 - 🗄️ Custom SQLite3 database schema & optimization
 - 🌐 Web platform integration for real-time updates
@@ -354,12 +355,13 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ```yaml
 🎯 Period: Feb 2025 – Present
-🔬 Technology: Modern UI/UX + Data Form 
+🔬 Technology: Modern UI/UX + Data Form
 ⚡ Mission: Showcase IEEE AIU initiatives
 👤 Role: Solo Full-Stack Developer & UI/UX Designer
 ```
 
 **🚀 KEY HIGHLIGHTS:**
+
 - 🎨 End-to-end responsive design & development
 - ⚡ React-based SPA with dynamic content management
 - 📱 Mobile-first approach with cross-browser compatibility
@@ -400,10 +402,10 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 🔬 Technology: Full-Stack Development
 📊 Focus: Student media initiatives
 👤 Role: Solo Full-Stack Developer & UI/UX Designer
-
 ```
 
 **🚀 KEY HIGHLIGHTS:**
+
 - 🎬 Custom media content showcase platform
 - 📝 Built-in blog & article management system
 - 🎨 Creative multimedia hub designed & coded solo
@@ -444,6 +446,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
 **🚀 KEY HIGHLIGHTS:**
+
 - 🚕 Complete transportation logistics system architecture
 - 📍 Route optimization & real-time tracking implementation
 - 👥 Student & shuttle management from scratch
@@ -487,6 +490,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
 **🚀 KEY HIGHLIGHTS:**
+
 - 🎨 Custom portfolio showcase platform built independently
 - 📸 Gallery management system with custom features
 - 🌟 Dynamic artist profile pages
@@ -527,6 +531,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```
 
 **🚀 KEY HIGHLIGHTS:**
+
 - 📅 Smart appointment scheduling system built from ground up
 - 📋 Comprehensive patient medical records management
 - 💰 Automated invoicing & billing system
@@ -559,11 +564,11 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ```mermaid
 timeline
     title 🚀 Career Evolution & Leadership Path
-    
+
     2024 : 🎓 Started BSc Software Engineering at AIU
          : 💻 Joined IEEE AIU Student Branch
          : 🤝 Began community engagement journey
-    
+
     2025 : 🌐 Founded Web Track @ IEEE AIU SB
          : 👨‍🏫 Started instructing 20+ students
          : 🔧 NTI Python Training - Certified 91.5%
@@ -572,7 +577,7 @@ timeline
          : 🎤 Head of Web & Content - Voice Club
          : 🏆 Leading multiple tech initiatives
          : 🚀 Building production-grade applications
-    
+
     2026 : 💼 Expanding data engineering expertise
          : 🌟 Growing mentorship program
          : 📈 Scaling web development initiatives
@@ -589,6 +594,7 @@ timeline
 <td width="50%">
 
 **🎯 ROLE & RESPONSIBILITIES:**
+
 - 🎨 Lead web and content creation initiatives
 - 📱 Coordinate student media projects
 - 🌟 Manage club website & digital presence
@@ -599,6 +605,7 @@ timeline
 <td width="50%">
 
 **💡 KEY ACHIEVEMENTS:**
+
 - ✅ Launched modern Voice Club website
 - 📊 Increased content engagement
 - 👥 Built creative team culture
@@ -620,6 +627,7 @@ timeline
 <td width="50%">
 
 **🎯 ROLE & RESPONSIBILITIES:**
+
 - 📚 Deliver web fundamentals training
 - 👥 Mentor 20+ students
 - 🛠️ Manage web development projects
@@ -630,6 +638,7 @@ timeline
 <td width="50%">
 
 **💡 KEY ACHIEVEMENTS:**
+
 - ✅ Trained 20+ students successfully
 - 🌐 Founded IEEE Web Track
 - 📖 Created learning materials
@@ -651,6 +660,7 @@ timeline
 <td width="50%">
 
 **🎯 SPECIALIZATION AREAS:**
+
 - 🗄️ SQL & Database Management
 - 📊 Data Pipelines & ETL
 - 🌩️ Big Data Processing
@@ -661,6 +671,7 @@ timeline
 <td width="50%">
 
 **💡 SKILLS ACQUIRED:**
+
 - ✅ Advanced SQL optimization
 - 📈 Data pipeline architecture
 - ☁️ Azure data services
@@ -682,6 +693,7 @@ timeline
 <td width="50%">
 
 **🎯 TESTING RESPONSIBILITIES:**
+
 - ✅ Functionality & integration testing
 - 🔐 Security & data validation
 - 👥 User experience verification
@@ -692,6 +704,7 @@ timeline
 <td width="50%">
 
 **💡 ACHIEVEMENTS:**
+
 - ✅ Ensured system reliability
 - 🐛 Identified critical issues
 - 📈 Improved user experience
@@ -713,6 +726,7 @@ timeline
 <td width="50%">
 
 **📚 PROGRAM DETAILS:**
+
 - 🎓 120 Hours (90 technical + 30 freelancing)
 - 🏆 Certificate: 91.5% Score
 - 👨‍💻 Hands-on Python development
@@ -723,6 +737,7 @@ timeline
 <td width="50%">
 
 **🎯 SKILLS MASTERED:**
+
 - 🐍 Python fundamentals & OOP
 - 📊 Data structures & algorithms
 - 💻 Web frameworks
@@ -740,11 +755,13 @@ timeline
 <br/>
 
 **Scientific & Technology Committee Member - AIU Student Union**
+
 - Organizing tech events and student initiatives
 - Building campus tech ecosystem
 - Supporting innovation competitions
 
 **Community Volunteer**
+
 - Active robotics competition participant (ROV Egypt - April 2025)
 - Coding challenge competitor (ECPC - 2024)
 - IEEE member and contributor
@@ -771,18 +788,20 @@ timeline
 ### 💻 **TECHNICAL EXPERTISE**
 
 **Programming Languages:**
+
 ```yaml
-JavaScript:     ████████████████████ 92%
-Python:         ████████████████░░░░ 85%
-C++:            ████████████████░░░░ 85%
-Java:           ███████████████░░░░░ 80%
-TypeScript:     ███████████████░░░░░ 80%
-SQL:            ████████████████░░░░ 85%
-PHP:            ██████████████░░░░░░ 75%
-C#:             ██████████░░░░░░░░░░ 65%
+JavaScript: ████████████████████ 92%
+Python: ████████████████░░░░ 85%
+C++: ████████████████░░░░ 85%
+Java: ███████████████░░░░░ 80%
+TypeScript: ███████████████░░░░░ 80%
+SQL: ████████████████░░░░ 85%
+PHP: ██████████████░░░░░░ 75%
+C#: ██████████░░░░░░░░░░ 65%
 ```
 
 **Web Development:**
+
 - 🎨 Full-Stack Development (MERN)
 - ⚛️ React.js & Component Architecture
 - 🔌 Node.js/Express.js Backend
@@ -792,6 +811,7 @@ C#:             ██████████░░░░░░░░░░ 65%
 - 📊 Database Design & Optimization
 
 **Data Engineering:**
+
 - 📊 Data Pipelines & ETL
 - 🗄️ SQL & Database Management
 - 🌩️ Big Data Processing
@@ -805,16 +825,18 @@ C#:             ██████████░░░░░░░░░░ 65%
 ### 🎨 **SOFT SKILLS & TOOLS**
 
 **Professional Skills:**
+
 ```yaml
-Team Leadership:    ████████████████████ 95%
-Problem Solving:    ████████████████░░░░ 90%
-Communication:      ███████████████████░ 95%
-Mentoring:          ████████████████░░░░ 90%
-Time Management:    ███████████████░░░░░ 85%
-Creativity:         ████████████████░░░░ 90%
+Team Leadership: ████████████████████ 95%
+Problem Solving: ████████████████░░░░ 90%
+Communication: ███████████████████░ 95%
+Mentoring: ████████████████░░░░ 90%
+Time Management: ███████████████░░░░░ 85%
+Creativity: ████████████████░░░░ 90%
 ```
 
 **Development Tools:**
+
 - 🔧 Git & GitHub (Version Control)
 - 💻 VS Code, Visual Studio
 - 📓 Figma (UI/UX Design)
@@ -825,6 +847,7 @@ Creativity:         ████████████████░░░░
 - 🐧 Linux Command Line
 
 **Other Skills:**
+
 - 📋 Project Management
 - 🧪 Software Testing & QA
 - 📊 Data Analysis & Visualization
@@ -1275,7 +1298,7 @@ for goal, target in goals_2026.items():
 
 <br/><br/>
 
-**Crafting Clean Code, Pixel by Pixel** ❤️ 
+**Crafting Clean Code, Pixel by Pixel** ❤️
 <br>
 **by Omar Elshaer**
 
