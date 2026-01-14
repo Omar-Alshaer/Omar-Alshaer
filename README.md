@@ -14,24 +14,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=667EEA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=🚀+Building+Real+Digital+Experiences;🌐+Leading+Web+Development+Community;⚡+From+Code+to+Impact;📊+Mastering+Full-Stack+%26+Data+Engineering" alt="Typing SVG" />
 </a>
 
+<br>
+
 <!-- Futuristic Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-r-shaer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5"/>
+  <a href="https://www.linkedin.com/in/omar-r-shaer/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:omar.reda.shaer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/Omar-Alshaer">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717"/>
-  </a>
-  <a href="https://facebook.com/omaralshaer99">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000&color=1877F2"/>
-  </a>
-  <a href="https://instagram.com/_.elshaer._">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F"/>
+  <a href="https://github.com/Omar-Alshaer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
 
 <!-- Live Visitor Counter with Gradient -->
 <img src="https://komarev.com/ghpvc/?username=OmarElshaer&label=Profile%20Views&color=667eea&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
@@ -1073,17 +1070,14 @@ Object-Oriented Programming (Multiple Platforms)
 ### 🌐 **CONNECT WITH ME**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-r-shaer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  <a href="https://www.linkedin.com/in/omar-r-shaer/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:omar.reda.shaer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://facebook.com/omaralshaer99">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://instagram.com/_.elshaer._">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+  <a href="https://github.com/Omar-Alshaer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
