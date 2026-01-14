@@ -16,7 +16,7 @@
 
 <!-- Futuristic Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/omar-elshaer">
+  <a href="https://www.linkedin.com/in/omar-r-shaer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5"/>
   </a>
   <a href="mailto:omar.reda.shaer@gmail.com">
@@ -1073,7 +1073,7 @@ Object-Oriented Programming (Multiple Platforms)
 ### 🌐 **CONNECT WITH ME**
 
 <p align="center">
-  <a href="https://linkedin.com/in/omar-elshaer">
+  <a href="https://www.linkedin.com/in/omar-r-shaer/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:omar.reda.shaer@gmail.com">
