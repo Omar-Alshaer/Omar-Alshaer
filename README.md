@@ -10,10 +10,10 @@
 </picture>
 
 <!-- Cyber Typing Effect with Multiple Lines -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=667EEA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=🚀+Building+Real+Digital+Experiences;🌐+Leading+Web+Development+Community;⚡+From+Code+to+Impact;📊+Mastering+Full-Stack+%26+Data+Engineering" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8111F7&multiline=true&width=435&lines=%F0%9F%9A%80+Building+Real+Digital+Experiences;%F0%9F%8C%90+Leading+Web+Development+Community;Crafting+Clean+Code%2C+Pixel+by+Pixel..%E2%9D%A4%EF%B8%8F;%F0%9F%93%8A+Mastering+Full-Stack+%26+Data+Engineering)](https://git.io/typing-svg)
 
+<br>
+<br>
 <br>
 
 <!-- Futuristic Social Badges -->
