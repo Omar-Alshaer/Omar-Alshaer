@@ -9,12 +9,11 @@
   <img width="100%" src="assets/projects/gifwithme.gif">
 </picture>
 
- 
  <br>
- 
-<!-- Cyber Typing Effect with Multiple Lines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=8111F7&center=true&multiline=true&width=500&height=150&lines=%F0%9F%9A%80+Building+Real+Digital+Experiences;%F0%9F%8C%90+Leading+Web+Development+Community;Crafting+Clean+Code%2C+Pixel+by+Pixel..%E2%9D%A4%EF%B8%8F.;+%F0%9F%93%8A+Mastering+Full-Stack+%26+Data+Engineering)](https://git.io/typing-svg)
 
+<!-- Cyber Typing Effect with Multiple Lines -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=8111F7&center=true&multiline=true&width=500&height=150&lines=%F0%9F%9A%80+Building+Real+Digital+Experiences;%F0%9F%8C%90+Leading+Web+Development+Community;Crafting+Clean+Code%2C+Pixel+by+Pixel..%E2%9D%A4%EF%B8%8F.;+%F0%9F%93%8A+Mastering+Full-Stack+%26+Data+Engineering)](https://git.io/typing-svg)
 
 <!-- Futuristic Social Badges -->
 <p align="center">
@@ -28,7 +27,6 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
 
 <!-- Live Visitor Counter with Gradient -->
 <img src="https://komarev.com/ghpvc/?username=OmarElshaer&label=Profile%20Views&color=667eea&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
