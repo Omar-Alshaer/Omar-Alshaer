@@ -339,7 +339,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://ieee-aiu.vercel.app">
 <img 
-  src="assets/projects/ieee-aiu.jpg" 
+  src="assets/projects/ieee-website.jpg" 
   width="400" 
   height="230"
   alt="IEEE AIU Student Branch Website"
@@ -385,7 +385,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://aiuvoiceclub.vercel.app">
 <img 
-  src="assets/projects/aiuvoiceclub.jpg" 
+  src="assets/projects/voice-club.jpg" 
   width="400" 
   height="230"
   alt="AIU Voice Club Website"
@@ -428,7 +428,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://aiu-o-buses.vercel.app">
 <img 
-  src="assets/projects/aiu-o-buses.jpg" 
+  src="assets/projects/transportation.jpg" 
   width="400" 
   height="230"
   alt="Alamein University Transportation System"
@@ -1199,7 +1199,7 @@ Object-Oriented Programming (Multiple Platforms)
 
 ## 💭 **PHILOSOPHY & VISION**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20about%20people.%20Build%20with%20intention.%20Lead%20with%20empathy&author=Omar%20Elshaer&border=true&animation=grow_out_in"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFAA&background=0D1117&center=true&vCenter=true&width=850&lines=Think.+Design.+Code.;Build+Once.+Build+Right.;Omar+Elshaer"/>
 
 <br/>
 
