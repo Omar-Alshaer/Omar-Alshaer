@@ -294,12 +294,14 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 📚 **O-Easy-TA – Academic Management System**
 
+<a href="https://o-easy-ta.vercel.app">
 <img 
   src="assets/projects/o-easy-ta.jpg" 
   width="400" 
   height="230"
   alt="O-Easy-TA – Academic Management System"
 />
+</a>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://github.com)
@@ -335,12 +337,14 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🌐 **IEEE AIU Student Branch Website**
 
+<a href="https://ieee-aiu.vercel.app">
 <img 
   src="assets/projects/ieee-aiu.jpg" 
   width="400" 
   height="230"
   alt="IEEE AIU Student Branch Website"
 />
+</a>
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com)
 [![WebDesign](https://img.shields.io/badge/Web-Design-667eea?style=flat-square)](https://github.com)
@@ -379,12 +383,14 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🎤 **AIU Voice Club Website**
 
+<a href="https://aiuvoiceclub.vercel.app">
 <img 
   src="assets/projects/aiuvoiceclub.jpg" 
   width="400" 
   height="230"
   alt="AIU Voice Club Website"
 />
+</a>
 
 [![Web](https://img.shields.io/badge/Web-Development-667eea?style=flat-square)](https://github.com)
 [![Content](https://img.shields.io/badge/Content-Management-F7931E?style=flat-square)](https://github.com)
@@ -420,12 +426,14 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🚕 **Alamein University Transportation System**
 
+<a href="https://aiu-o-buses.vercel.app">
 <img 
   src="assets/projects/aiu-o-buses.jpg" 
   width="400" 
   height="230"
   alt="Alamein University Transportation System"
 />
+</a>
 
 [![Backend](https://img.shields.io/badge/Backend-Development-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com)
 [![Database](https://img.shields.io/badge/Database-Management-764ba2?style=flat-square)](https://github.com)
@@ -464,12 +472,14 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🎨 **Soul Art Hub Website**
 
+<a href="https://soul-art-hub.vercel.app">
 <img 
   src="assets/projects/soul-art-hub.jpg" 
   width="400" 
   height="230"
   alt="Soul Art Hub Website"
 />
+</a>
 
 [![WebDevelopment](https://img.shields.io/badge/Web-Development-667eea?style=flat-square)](https://github.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-E4405F?style=flat-square)](https://github.com)
@@ -568,7 +578,7 @@ timeline
          : 👨‍🏫 Started instructing 20+ students
          : 🔧 NTI Python Training - Certified 91.5%
          : 📊 Microsoft DEPI Data Engineer Trainee
-         : 🧪 Software Tester - Admission Platform
+         : 🧪 Software Tester (Volunteer) - Admission Platform
          : 🎤 Head of Web & Content - Voice Club
          : 🏆 Leading multiple tech initiatives
          : 🚀 Building production-grade applications
@@ -680,7 +690,7 @@ timeline
 </details>
 
 <details>
-<summary><b>🧪 Software Tester – Admission Platform</b> | <i>Jun 2025 - Sep 2025</i></summary>
+<summary><b>🧪 Software Tester (Volunteer) – Admission Platform</b> | <i>Jun 2025 - Sep 2025</i></summary>
 <br/>
 
 <table>
