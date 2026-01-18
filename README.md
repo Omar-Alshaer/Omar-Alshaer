@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Holographic Header with Particles -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=OMAR%20ELSHAER&fontSize=80&color=gradient&customColorList=0,11,20,24,30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Student%20Leader&descAlignY=55&descAlign=50&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=OMAR%20ELSHAER&fontSize=80&color=gradient&customColorList=0,11,20,24,30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20-%20Data%20Engineer%20-%20IEEE%20Web%20Lead%20and%20Instructor&descAlignY=55&descAlign=50&descSize=22"/>
 
 <!-- Animated Matrix Rain Effect Banner -->
 <picture>
