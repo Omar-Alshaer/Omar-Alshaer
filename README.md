@@ -45,7 +45,7 @@
 ## 🌐 PORTFOLIO WEBSITE
 
 <p align="center">
-  <a href="https://omarshaer.vercel.app/" target="_blank">
+  <a href="https://omar-shaer.tech/" target="_blank">
     <img 
       src="assets/projects/portfolio-main.png" 
       alt="Omar Elshaer Portfolio"
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <a href="https://omarshaer.vercel.app/" target="_blank">
+  <a href="https://omar-shaer.tech/" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-667EEA?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Visit Portfolio">
   </a>
 </p>
