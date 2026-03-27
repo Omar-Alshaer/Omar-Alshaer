@@ -33,7 +33,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Bio Section with Glassmorphism Effect -->
 <div align="center">
@@ -51,14 +53,14 @@
       alt="Omar Elshaer Portfolio"
       width="600" 
       height="340"
-      style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
+      style="border-radius: 12px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4); border: 1px solid rgba(102, 126, 234, 0.3);"
     >
   </a>
 </p>
 
 <p align="center">
   <a href="https://omar-shaer.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-667EEA?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Visit Portfolio">
+    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-omar--shaer.tech-667EEA?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Visit Portfolio">
   </a>
 </p>
 
@@ -66,6 +68,11 @@
 
 <p align="center">
   <b>🌟 6 Production-Ready Applications | Built with Modern Tech Stack 🌟</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-All_Live_✅-00C853?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010"/>
 </p>
 
 <table align="center">
@@ -134,7 +141,9 @@
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 ```python
                     """
@@ -174,7 +183,8 @@ class FullStackDeveloper:
         return [
             "🎯 Leading Web Track @ IEEE AIU Student Branch",
             "📈 Building production-grade web applications",
-            "🏗️ Mastering Data Engineering with Microsoft Azure",
+            "🇯🇵 GCI World 2026 – Data Science & AI @ University of Tokyo",
+            "🏅 DEPI Microsoft Data Engineer – Graduated Dec 2025",
             "🌱 Mentoring 20+ students in web fundamentals",
             "💡 Creating systems that solve real-world problems",
             "🚀 Driving innovation in university tech community"
@@ -190,17 +200,21 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 ### 🌟 QUICK STATS
 
-- 👥 **20+** Students Mentored
-- 🌐 **6+** Web Projects
-- 🏆 **2nd Place** Web Design (2021)
-- 📜 **15+** Professional Certifications
-- 💻 **Full-Stack** Competency
+<div align="center">
+
+| 👥 Students Mentored | 🌐 Web Projects | 🏆 Award | 📜 Certifications | 🇯🇵 Global Program |
+|:---:|:---:|:---:|:---:|:---:|
+| **20+** | **6+** | **2nd Place** Web Design (2021) | **15+** Professional | **U-Tokyo GCI 2026** |
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Tech Stack with Neon Glow Effect -->
 <div align="center">
@@ -296,7 +310,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://o-easy-ta.vercel.app">
 <img 
-  src="assets/projects/o-easy-ta.jpg" 
+  src="assets/projects/o-easy-ta.png" 
   width="400" 
   height="230"
   alt="O-Easy-TA – Academic Management System"
@@ -327,7 +341,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 **💡 IMPACT:** Single-handedly streamlined academic workflows for students and faculty
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 </td>
 
@@ -339,7 +355,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://ieee-aiu.vercel.app">
 <img 
-  src="assets/projects/ieee-website.jpg" 
+  src="assets/projects/ieee-aiu.png" 
   width="400" 
   height="230"
   alt="IEEE AIU Student Branch Website"
@@ -370,7 +386,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 **💡 IMPACT:** Built from scratch to create a vibrant online community for tech enthusiasts
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 </td>
 </tr>
@@ -385,7 +403,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://aiuvoiceclub.vercel.app">
 <img 
-  src="assets/projects/voice-club.jpg" 
+  src="assets/projects/aiuvoiceclub.png" 
   width="400" 
   height="230"
   alt="AIU Voice Club Website"
@@ -416,7 +434,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 **💡 IMPACT:** Independently created a platform empowering student voices and creative expression
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 </td>
 
@@ -428,7 +448,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://aiu-o-buses.vercel.app">
 <img 
-  src="assets/projects/transportation.jpg" 
+  src="assets/projects/aiu-o-buses.png" 
   width="400" 
   height="230"
   alt="Alamein University Transportation System"
@@ -459,7 +479,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 **💡 IMPACT:** Solo project improving campus transportation efficiency and student experience
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 </td>
 </tr>
@@ -474,7 +496,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 <a href="https://soul-art-hub.vercel.app">
 <img 
-  src="assets/projects/soul-art-hub.jpg" 
+  src="assets/projects/soul-art-hub.png" 
   width="400" 
   height="230"
   alt="Soul Art Hub Website"
@@ -505,7 +527,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 **💡 IMPACT:** Single-handedly provided a digital stage for artists and creators
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 </td>
 
@@ -516,7 +540,7 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 ### 🏥 **Doctorly – Clinic Management System**
 
 <img 
-  src="assets/projects/doctorly.jpg" 
+  src="assets/projects/doctorly.png" 
   width="400" 
   height="230"
   alt="Doctorly – Clinic Management System"
@@ -546,7 +570,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 
 **💡 IMPACT:** Independently developed a complete solution empowering doctors with smart tools to manage their clinic efficiently and improve patient care
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 </td>
 </tr>
@@ -557,7 +583,9 @@ print(f"👾 Welcome to {omar.name}'s Digital Universe!")
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Professional Experience Timeline -->
 <div align="center">
@@ -577,18 +605,65 @@ timeline
     2025 : 🌐 Founded Web Track @ IEEE AIU SB
          : 👨‍🏫 Started instructing 20+ students
          : 🔧 NTI Python Training - Certified 91.5%
-         : 📊 Microsoft DEPI Data Engineer Trainee
+         : 📊 Microsoft DEPI Data Engineer - Graduated Dec 2025
          : 🧪 Software Tester (Volunteer) - Admission Platform
          : 🎤 Head of Web & Content - Voice Club
          : 🏆 Leading multiple tech initiatives
          : 🚀 Building production-grade applications
 
-    2026 : 💼 Expanding data engineering expertise
+    2026 : 🇯🇵 Accepted into GCI World 2026 – University of Tokyo
+         : 🤖 Data Science & AI – Matsuo-Iwasawa Lab
          : 🌟 Growing mentorship program
          : 📈 Scaling web development initiatives
-         : 🎯 Aiming for internship opportunities
-         : 🌍 Contributing to tech community
+         : 🌍 Contributing to global tech community
 ```
+
+<details open>
+<summary><b>🇯🇵 GCI World 2026 – Data Science & AI | Matsuo-Iwasawa Lab, The University of Tokyo</b> | <i>Mar 2026 – Present</i></summary>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌸_University_of_Tokyo-GCI_World_2026-FF0000?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Data_Science_%26_AI-Matsuo--Iwasawa_Lab-764ba2?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🇯🇵_Tokyo_Japan-Remote-667EEA?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<blockquote>
+<i>"Next chapter: The University of Tokyo 🇯🇵 — One acceptance… and suddenly the distance between Egypt 🇪🇬 and Tokyo 🇯🇵 feels a lot smaller."</i>
+</blockquote>
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 PROGRAM OVERVIEW:**
+
+- 🏛️ 3-month remote program at Matsuo-Iwasawa Lab, The University of Tokyo
+- 📊 Introduction to Data Science & Data Manipulation (NumPy)
+- 🧹 Data Cleaning (Pandas) & Visualization (Matplotlib)
+- 🤖 Supervised & Unsupervised Machine Learning
+- 📈 Model Evaluation, Feature Engineering & SQL
+- ⏳ Time Series Analysis & Marketing Applications in Data Science
+- 🎙️ Special Sessions: guest lectures from industry experts
+- 🌐 Collaborating with an international community of students & researchers
+
+</td>
+<td width="50%">
+
+**💡 WHAT I'M BUILDING:**
+
+- ✅ Practical AI & Machine Learning skills — hands-on
+- 🔬 Bridging Software Engineering background with Data Science
+- 🧠 Exploring how AI & Data Science turn ideas into real solutions
+- 🚀 Developing practical skills in model evaluation & feature engineering
+- 📊 Mastering time series & marketing applications of Data Science
+- 💡 Shaping the future of AI — one model at a time
+
+</td>
+</tr>
+</table>
+
+</details>
 
 <details open>
 <summary><b>🌐 Head of Web & Content – AIU Voice Club</b> | <i>Oct 2025 - Present</i></summary>
@@ -657,31 +732,39 @@ timeline
 </details>
 
 <details open>
-<summary><b>📊 Microsoft Data Engineer Trainee – DEPI</b> | <i>Jun 2025 - Present</i></summary>
+<summary><b>📊 Microsoft Data Engineer – DEPI Graduate 🎓</b> | <i>Jun 2025 – Dec 2025</i></summary>
 <br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✅_GRADUATED-December_2025-00C853?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-Data_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/MCIT_Egypt-DEPI_Initiative-667EEA?style=for-the-badge&labelColor=000000"/>
+</p>
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 SPECIALIZATION AREAS:**
+**🎯 PROGRAM HIGHLIGHTS:**
 
-- 🗄️ SQL & Database Management
-- 📊 Data Pipelines & ETL
-- 🌩️ Big Data Processing
-- ☁️ Microsoft Azure Services
-- 🤖 AI for Data Engineering
+- 🏛️ 6-month intensive training – Digital Egypt Pioneers Initiative (DEPI)
+- 🏛️ Under the Ministry of Communications & Information Technology (MCIT), Egypt
+- 🗄️ Designing & implementing data solutions using SQL, Python & Microsoft Azure
+- 🔁 Building data pipelines, data processing & database management
+- 🤖 Applying Data Engineering & AI concepts in real-world scenarios
+- ✅ Followed industry best practices throughout the program
 
 </td>
 <td width="50%">
 
 **💡 SKILLS ACQUIRED:**
 
-- ✅ Advanced SQL optimization
-- 📈 Data pipeline architecture
-- ☁️ Azure data services
-- 🔬 Statistical analysis
-- 💼 Professional project experience
+- ✅ End-to-end data solution design & implementation
+- ✅ Data pipelines with SQL, Python & Azure
+- ✅ Big Data Processing & ETL workflows
+- ✅ Microsoft Azure Data Services
+- ✅ AI for Data Engineering – real-world applications
+- ✅ Advanced SQL optimization & database management
 
 </td>
 </tr>
@@ -777,7 +860,9 @@ timeline
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Skills Breakdown -->
 <div align="center">
@@ -870,7 +955,9 @@ Creativity: ████████████████░░░░ 90%
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Certifications Section -->
 <div align="center">
@@ -878,6 +965,32 @@ Creativity: ████████████████░░░░ 90%
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> ACHIEVEMENTS & CERTIFICATIONS
 
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="200"/>
+
+<!-- ⭐ Featured Achievement -->
+<div align="center">
+
+### 🌸 LATEST MILESTONE
+
+<table width="80%">
+<tr>
+<td align="center">
+<img src="https://flagcdn.com/w80/jp.png" width="50"/>
+<br/><br/>
+<strong>🎌 GCI World 2026 – Data Science & AI</strong>
+<br/>
+<sub>Matsuo-Iwasawa Lab | The University of Tokyo</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/🇯🇵_University_of_Tokyo-Accepted-FF0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Data_Science_%26_AI-Mar_2026_–_Present-764ba2?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<sub>Accepted into an elite international 3-month AI & Data Science program at one of Asia's top universities, collaborating with a global community and shaping real-world AI solutions.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 </div>
 
@@ -890,11 +1003,11 @@ Creativity: ████████████████░░░░ 90%
 <br/>
 <strong>📊 DEPI Microsoft Data Engineer</strong>
 <br/>
-<sub>In Progress - Capstone Project</sub>
+<sub>✅ Graduate – December 2025</sub>
 <br/>
-<sub>2025</sub>
+<sub>Digital Egypt Pioneers Initiative | MCIT</sub>
 <br/>
-<img src="https://img.shields.io/badge/Data-Engineer-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Engineer_Graduate-0078D4?style=flat-square"/>
 </td>
 
 <td align="center" width="25%">
@@ -989,9 +1102,16 @@ Creativity: ████████████████░░░░ 90%
 <tr>
 <td colspan="4" align="center" style="padding: 20px;">
 <h3>📚 DEPI Specialization Courses</h3>
-<p style="font-size: 14px;">
-✅ Prompt Engineering | SQL & Database Management | Advanced Python | Data Pipelines | Big Data Processing | 
-Microsoft Azure Data Engineer | AI for Data Engineers | Programming Essentials | Intro to Data Engineering
+<p>
+<img src="https://img.shields.io/badge/Prompt_Engineering-667eea?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/SQL_%26_Database_Management-4479A1?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Advanced_Python-3776AB?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Data_Pipelines-00C7B7?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Big_Data_Processing-FF6B35?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Azure_Data_Engineer-0078D4?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/AI_for_Data_Engineers-764ba2?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Programming_Essentials-00C853?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Intro_to_Data_Engineering-F7DF1E?style=flat-square&labelColor=101010&logoColor=black"/>
 </p>
 </td>
 </tr>
@@ -1000,9 +1120,11 @@ Microsoft Azure Data Engineer | AI for Data Engineers | Programming Essentials |
 <tr>
 <td colspan="4" align="center" style="padding: 20px;">
 <h3>🎓 Additional Online Certifications</h3>
-<p style="font-size: 14px;">
-📚 SQL for Data Science with R (IBM) | Introduction to R Programming (IBM) | Advanced Python for Data Engineering | 
-Object-Oriented Programming (Multiple Platforms)
+<p>
+<img src="https://img.shields.io/badge/SQL_for_Data_Science_with_R_(IBM)-4479A1?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Introduction_to_R_(IBM)-276DC3?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Advanced_Python_for_Data_Engineering-3776AB?style=flat-square&labelColor=101010"/>
+<img src="https://img.shields.io/badge/OOP_(Multiple_Platforms)-667eea?style=flat-square&labelColor=101010"/>
 </p>
 </td>
 </tr>
@@ -1013,7 +1135,9 @@ Object-Oriented Programming (Multiple Platforms)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Competitions & Awards -->
 <div align="center">
@@ -1066,7 +1190,9 @@ Object-Oriented Programming (Multiple Platforms)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Connect & Collaborate Section -->
 <div align="center">
@@ -1148,7 +1274,9 @@ Object-Oriented Programming (Multiple Platforms)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Trophy Case -->
 <div align="center">
@@ -1192,7 +1320,9 @@ Object-Oriented Programming (Multiple Platforms)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Quote of the Day -->
 <div align="center">
@@ -1210,7 +1340,8 @@ Object-Oriented Programming (Multiple Platforms)
 ```python
 goals_2026 = {
     "🎓 Education": "Excel in Software Engineering program",
-    "💼 Career": "Secure internship in full-stack development",
+    "🇯🇵 Tokyo": "Thrive in GCI World 2026 @ University of Tokyo",
+    "🤖 AI/ML": "Master Data Science & AI at Matsuo-Iwasawa Lab",
     "🌐 Leadership": "Scale web community to 50+ students",
     "📊 Skills": "Master MERN stack & Azure deployment",
     "🚀 Projects": "Build 5+ production-grade applications",
@@ -1243,7 +1374,9 @@ for goal, target in goals_2026.items():
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <!-- Footer Section -->
 <div align="center">
@@ -1252,11 +1385,14 @@ for goal, target in goals_2026.items():
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200"/>
 
-<h3>
-🚀 Available for:
-<br/>
-<code>Internships</code> | <code>Freelance Projects</code> | <code>Collaborations</code> | <code>Teaching & Mentoring</code>
-</h3>
+<h3>🚀 Available for:</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Internships-667EEA?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Freelance_Projects-00C853?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Collaborations-FF6B35?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Teaching_%26_Mentoring-764ba2?style=for-the-badge&labelColor=000000"/>
+</p>
 
 **Interested in Full-Stack Development, Data Engineering, Web Development, or Tech Community Building**
 
@@ -1286,12 +1422,16 @@ for goal, target in goals_2026.items():
 
 <br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,20,24,30&height=3"/>
+</div>
 
 <h3>
+<br/>
 💡 "Code is about people. Build with intention. Lead with empathy."
 <br/>
-<sub>- Omar Elshaer</sub>
+<sub>— Omar Elshaer</sub>
+<br/>
 </h3>
 
 <br/>
