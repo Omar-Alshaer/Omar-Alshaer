@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://omar-shaer.tech/" target="_blank">
     <img 
-      src="assets/projects/portfolio-main.png" 
+      src="/assets/projects/portfolio-main.png" 
       alt="Omar Elshaer Portfolio"
       width="600" 
       height="340"
